@@ -1,0 +1,4 @@
+# Este es un ejemplo de requirements.txt
+
+# Dependencias principales
+requests==2.26.0
