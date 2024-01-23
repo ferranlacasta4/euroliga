@@ -2,3 +2,4 @@
 
 # Dependencias principales
 requests==2.26.0
+euroleague-api==0.0.8
