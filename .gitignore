@@ -1,0 +1,30 @@
+# Archivos y carpetas generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyz
+*.pyw
+*.py~
+
+# Carpeta del entorno virtual (si la usas)
+venv/
+
+# Carpeta de archivos de configuración
+*.env
+
+# Archivo de caché de Visual Studio Code
+.vscode/
+
+# Carpeta de construcción
+build/
+dist/
+
+# Carpeta de archivos de registro
+logs/
+
+# Archivos de configuración específicos de sistemas operativos
+.DS_Store
+Thumbs.db
