@@ -3,3 +3,5 @@
 # Dependencias principales
 requests==2.26.0
 euroleague-api==0.0.8
+SQLAlchemy==2.0.25
+mysql-connector-python==8.3.0
